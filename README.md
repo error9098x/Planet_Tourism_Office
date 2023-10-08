@@ -6,6 +6,9 @@
 - Email Id: provantablack@gmail.com
 
 
+## Check out Website!:
+ https://softonauts.netlify.app
+ 
 ## Description
 
 The Planetary Tourism Office project is a website that allows users to explore planets and gain knowledge about space travel from the comfort of their homes. It provides an interactive platform for users to check itineraries and learn about the planets in our solar system.
@@ -15,6 +18,13 @@ Using React, Vite, and Tailwind CSS, the project offers a user-friendly interfac
 The project integrates with the NASA API to provide real-time data about the planets, ensuring that users have access to the latest information. Additionally, custom AI algorithms are implemented to offer personalized recommendations based on user preferences and behavior.
 
 With the inclusion of 3D models, CSS, HTML, and generative AI techniques, the website creates an immersive experience that sparks curiosity and allows users to gain knowledge about space exploration.
+## ScreenShots
+![Alt text](images/1.png)
+![Alt text](images/2.png)
+![Alt text](images/3.png)
+![Alt text](images/4.png)
+![Alt text](images/5.png)
+![Alt text](images/6.png)
 
 ## Technologies Used
 
