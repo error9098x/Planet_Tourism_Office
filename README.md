@@ -1,13 +1,10 @@
 # Planetary Tourism Office
-## Team
-
-- Team Name: Softonauts
-- Team Leader Namer: Aviral Kaintura
+# Contact
 - Email Id: provantablack@gmail.com
 
 
 ## Check out Website!:
- https://softonauts.netlify.app
+ https://tourismoffice.vercel.app
  
 ## Description
 
